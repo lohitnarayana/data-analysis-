@@ -112,5 +112,4 @@ data['pro'].value_counts().head()
 
 data['Email'].apply(lambda x:x.split('@')[1]).value_counts().head()
 
-"""# Project - 2 (Case Study - 2) | Data Analysis With Python Pandas | Kaggle Dataset"""
 
