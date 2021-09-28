@@ -1,0 +1,17 @@
+#Project - 1 (Case Study - 1) | Data Analysis With Python Pandas | E-Commerce Purchases Dataset
+
+1.DISPLAY TOP 10 ROWS OF DATASET
+2.CHECK LAST 10 ROWS
+3.CHECK DATATYPE OF EACH COLUMN
+4.CHECK NULL VALUES IN THE DATASET 
+5.HOW MANY ROWS AND COLUMNS ARE THERE IN OUR DATASET
+6.HIGHEST AND LOWEST PURCHASE PRICES
+7.AVERAGE PURCHASE PRICE
+8.HOW MANY PEOPLE HAVE FRENCH AS THEIR LANGUAGE
+9.JOB TITLE CONTAINING ENGINEER
+10.FIND EMAIL OF PERSON WITH FOLLOWING IP 132.207.160.22
+11.How many People have Mastercard as their Credit Card Provider and made a purchase above 50.
+12.Find the email of the person with the following Credit Card Number: 4664825258997302.
+13.How many people purchase during the AM and how many people purchase during PM
+14.How many people have a credit card that expires in 2020?
+15.What are the top 5 most popular email providers (e.g. gmail.com, yahoo.com, etc...).
